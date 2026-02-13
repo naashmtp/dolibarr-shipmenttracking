@@ -1,0 +1,34 @@
+# Module label
+Module700001Name = Suivi des expéditions
+Module700001Desc = Mise à jour automatique des numéros de suivi d'expédition
+
+# Admin page
+ShipmentTrackingSetup = Configuration du suivi des expéditions
+Settings = Paramètres
+ExcelFilePath = Chemin du fichier Excel
+NoExcelPathDefined = Aucun chemin de fichier Excel défini
+ExcelFileNotFound = Fichier Excel non trouvé : %s
+ExcelFileNotReadable = Fichier Excel non lisible : %s
+FileIDHelp = Chemin complet vers le fichier Excel sur le NAS
+SetupSaved = Configuration sauvegardée
+
+# Main page
+TrackingUpdate = Mise à jour des suivis
+ImportTrackingNumbers = Importer les numéros de suivi
+ImportSuccess = Import réussi : %s expéditions mises à jour
+LastImport = Dernière importation
+LastUpdates = Dernières mises à jour
+Parameter = Paramètre
+Value = Valeur
+Date = Date
+Shipment = Expédition
+TrackingNumber = Numéro de suivi
+None = Aucun
+
+# Permissions
+ReadRight = Lire les mises à jour de tracking
+WriteRight = Mettre à jour les numéros de suivi
+
+# Errors
+ErrorSavingTrackingNumber = Erreur lors de la sauvegarde du numéro de suivi
+ErrorReadingExcelFile = Erreur lors de la lecture du fichier Excel

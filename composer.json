@@ -1,0 +1,8 @@
+{
+    "name": "dolibarr/shipmenttracking",
+    "description": "Shipment tracking number import module",
+    "require": {
+        "php": ">=7.4",
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}

@@ -1,0 +1,34 @@
+# Module label
+Module700001Name = Shipment Tracking
+Module700001Desc = Automatic update of shipment tracking numbers
+
+# Admin page
+ShipmentTrackingSetup = Shipment Tracking Setup
+Settings = Settings
+ExcelFilePath = Excel File Path
+NoExcelPathDefined = No Excel file path defined
+ExcelFileNotFound = Excel file not found: %s
+ExcelFileNotReadable = Excel file not readable: %s
+FileIDHelp = Full path to Excel file on NAS
+SetupSaved = Configuration saved
+
+# Main page
+TrackingUpdate = Tracking Update
+ImportTrackingNumbers = Import Tracking Numbers
+ImportSuccess = Import successful: %s shipments updated
+LastImport = Last Import
+LastUpdates = Last Updates
+Parameter = Parameter
+Value = Value
+Date = Date
+Shipment = Shipment
+TrackingNumber = Tracking Number
+None = None
+
+# Permissions
+ReadRight = Read tracking updates
+WriteRight = Update tracking numbers
+
+# Errors
+ErrorSavingTrackingNumber = Error while saving tracking number
+ErrorReadingExcelFile = Error while reading Excel file
